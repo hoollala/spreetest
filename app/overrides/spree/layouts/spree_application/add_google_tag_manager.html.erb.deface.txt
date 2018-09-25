@@ -1,0 +1,2 @@
+<!-- insert_after '.container' -->
+<%= render :partial => 'spree/shared/google_tag_manager'%>
